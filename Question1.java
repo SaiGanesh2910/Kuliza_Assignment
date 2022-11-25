@@ -9,9 +9,9 @@ public class Question1 {
             String str2=sc.next();
             boolean b=CheckCommon(str1,str2);
             if(b)
-                System.out.println("Yes");
+                System.out.println("YES");
             else
-                System.out.println("No");
+                System.out.println("NO");
         }
         sc.close();
     }
